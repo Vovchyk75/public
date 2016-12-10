@@ -1,0 +1,13 @@
+2016-11-20 12:57:37: Warning: [require(./modules/news/read.php): failed to open stream: No such file or directory]
+at file D:\OpenServer\domains\vagrant\public\index.php in line 215
+=================================================
+
+2016-11-20 12:57:37: Complite error: [require(): Failed opening required './modules/news/read.php' (include_path='.;d:/openserver/modules/php/PHP-5.6;d:/openserver/modules/php/PHP-5.6/PEAR/pear')]
+at file D:\OpenServer\domains\vagrant\public\index.php in line 215
+=================================================
+
+2016-11-23 17:12:28: Warning: [mysqli::__construct(): (HY000/1045): Access denied for user 'vtest-install'@'localhost' (using password: YES)]
+at file /var/www/vtest.com/vendor/schoolphp/library/Core/functions.php in line 134
+=================================================
+
+
